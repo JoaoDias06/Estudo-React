@@ -5,7 +5,7 @@ const Botao = (props) => {
         <div className="botao">
             <button>{props.className}</button>
         </div>
-    )
+    );
 }
 
 export default Botao
